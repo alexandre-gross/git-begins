@@ -8,4 +8,4 @@ git commit -m "message de commit"
 
 git push -u origin "nom de la branche"
 
-
+git pull
