@@ -1,0 +1,11 @@
+# commands-begins
+
+git clone https://github.com/alexandre-gross/git-begins-2.git
+
+git add . ou git add "nomdufichier"
+
+git commit -m "message de commit"
+
+git push -u origin "nom de la branche"
+
+
